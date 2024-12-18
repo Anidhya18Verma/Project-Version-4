@@ -1,0 +1,7 @@
+https://www.phpmyadminonline.com/index.php?route=/&route=%2F
+
+Host: sql12.freesqldatabase.com
+Database name: sql12751537
+Database user: sql12751537
+Database password: KepXY5dtSN
+Port number: 3306
